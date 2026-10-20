@@ -14,7 +14,7 @@ The cat in the glasses is **Limoo**, my British Shorthair and the mascot of ever
 
 <p>
   <img src="assets/p-head.svg" width="100%" alt="Project directory: name, language, what it is">
-  <a href="https://github.com/bou-slh/BTicketing-System"><img src="assets/p-helpdesk.svg" width="100%" alt="HELPDESK-DOTNET (C#): Turkish/English helpdesk with customer portal, agent board and admin panel, 2FA, E2E tests"></a>
+  <a href="https://github.com/bou-slh/helpdesk-dotnet"><img src="assets/p-helpdesk.svg" width="100%" alt="HELPDESK-DOTNET (C#): Turkish/English helpdesk with customer portal, agent board and admin panel, 2FA, E2E tests"></a>
   <a href="https://github.com/bou-slh/rapidhr"><img src="assets/p-rapidhr.svg" width="100%" alt="RAPIDHR (TypeScript): HR platform with layered RBAC and leave workflows"></a>
   <a href="https://bou-slh.github.io/Myportfolio/"><img src="assets/p-portfolio.svg" width="100%" alt="PIXEL-ROOM (JavaScript): portfolio drawn pixel by pixel in Canvas, live demo"></a>
   <a href="https://github.com/bou-slh/herakocluk"><img src="assets/p-herakocluk.svg" width="100%" alt="HERA-KOCLUK (TypeScript): client site for an academic coaching platform"></a>
